@@ -1,0 +1,48 @@
+
+{
+    "title": "mimolive字幕软件使用方法",
+    "author": "MarioLin",
+    "description": "mimolive使用文档",
+    "language": "zh-hans",
+    "fontSize": 18, 
+    "structure": {
+        "readme": "README.md"
+    },
+    "styles": {
+        "website": "styles/website.css"
+    },
+
+    "plugins": [
+        "-sharing",
+        "splitter",
+        "expandable-chapters-small",
+        "anchors",
+        "sharing-plus",
+        "anchor-navigation-ex",
+        "favicon",
+        "-lunr", 
+        "-search", 
+        "search-pro"
+    ],
+
+    "pluginsConfig": {
+        "anchor-navigation-ex": {
+            "showLevel": false
+        },
+        "favicon":{
+            "shortcut": "./source/images/favicon.jpg",
+            "bookmark": "./source/images/favicon.jpg",
+            "appleTouch": "./source/images/apple-touch-icon.jpg",
+            "appleTouchMore": {
+                "120x120": "./source/images/apple-touch-icon.jpg",
+                "180x180": "./source/images/apple-touch-icon.jpg"
+            }
+        },
+        
+        "search-pro": {
+            "cutWordLib": "nodejieba",
+            "defineWord" : ["Gitbook Use"]
+        }
+    }
+}
+
