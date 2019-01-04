@@ -1,10 +1,8 @@
-# 字体描边扩展的安装
+## 字体描边扩展的安装
 
 找到文件
 
 > *Static Text.tvlayer*
-
-[字体描边下载](../resource/Static Text.tvlayer.zip)
 
 并打开
 
