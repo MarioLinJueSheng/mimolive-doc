@@ -2,6 +2,12 @@
 
 ## 下载插件
 
+[下载地址](<https://github.com/MarioLinJueSheng/mimoScript/releases>)
+
+> 下载 -- mimoScript.zip
+
+解压mimoScript文件夹到桌面
+
 
 
 ## 安装配置Python
