@@ -10,7 +10,10 @@ mimolive支持的动画格式为
 
 打开Media Encoder，找到 *玫琳凯动画格式.epr*，根据以下gif完成格式转换。
 
-[格式转换教程]()
+### 格式转换教程
+
+![howToEncode](../resource/howToEncode.gif)
 
 > 注：以上教程基于.tga序列的转换，其他视频格式操作类似
 
+[玫琳凯格式epr预设](../resource/玫琳凯动画格式.epr)
