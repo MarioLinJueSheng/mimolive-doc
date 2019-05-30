@@ -8,7 +8,7 @@
     * [1.4 输入与输出](Ch1/inputOutput.md)
 * [2. 流程](workfollow.md)
     * [2.1 唱词](Ch2/lyrics.md)
-    * [2.2 人名字幕条](Ch2/LowerThird.md)
+    * [2.2 人名字幕条](Ch2/lowerThird.md)
     * [2.3 其他常用图层](Ch2/otherLayer.md)
 * [3. 素材管理](1.md)
     * [3.1 素材关联](Ch3/sourceMapping.md)
